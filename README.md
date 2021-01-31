@@ -4,7 +4,7 @@ Hello World!
 
 This is my solution to the HarvardX cs50's problem sets. 
 
-HarvardX cs50 is an introduction to Scratch, C, Python and other basic foundamentals in CS. The official website is listed as follow.
+HarvardX cs50 is an introduction to Scratch, C, Python and other basic fundamentals in CS. The official website is listed as follow.
 
 https://cs50.harvard.edu/
 
