@@ -8,6 +8,6 @@ HarvardX cs50 is an introduction to Scratch, C, Python and other basic foundamen
 
 https://cs50.harvard.edu/
 
-As a major-changer from Chemistry to CS, I am going to familiar myself with C and other programming laguages and terminologies in CS, and most importantly I will give my solutions to cs50 problem sets. 
+As a major-changer from Chemistry to CS, I am going to familiar myself with C and other programming laguages and terminologies in CS, and most importantly I will share my solutions to cs50 problem sets. 
 
 Welcome and feel free to share any questions, concerns and comments for my code! 
