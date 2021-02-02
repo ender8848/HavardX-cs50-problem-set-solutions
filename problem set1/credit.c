@@ -6,7 +6,6 @@ bool checksum(long cn);
 long get_cn(void);
 void type(long cn);
 
-
 int main(void)
 {
     // Take in card number(cn) and do checksum to see if cn is valid(stored in bool legit)
@@ -16,7 +15,6 @@ int main(void)
     // If valid, check which kind of card it is
     if (legit)
     {
-        // printf("CHECKSUM VALID\n");
         type(cn);
     }
     else
@@ -36,7 +34,6 @@ long get_cn(void)
     while (cn < pow(10,13) || cn > pow(10,17));
     return cn;
 }
-
 
 bool checksum(long cn)
 {
@@ -76,15 +73,15 @@ bool checksum(long cn)
 void type(long cn)
 {
     // if passed checksum, check the card type
-    if (cn/(long)pow(10,14) < 10 && (cn/(long)pow(10,13) == 34 || cn/(long)pow(10,13) == 37))
+    if (cn / (long)pow(10,14) < 10 && (cn / (long)pow(10,13) == 34 || cn / (long)pow(10,13) == 37))
     {
         printf("AMEX\n");
     }
-    else if (cn/(long)pow(10,15) < 10 && cn/(long)pow(10,14) >= 51 && cn/(long)pow(10,14) <= 55)
+    else if (cn / (long)pow(10,15) < 10 && cn / (long)pow(10,14) >= 51 && cn / (long)pow(10,14) <= 55)
     {
         printf("MASTERCARD\n");
     }
-    else if (cn/(long)pow(10,15) == 4 || cn/(long)pow(10,12) == 4)
+    else if (cn / (long)pow(10,15) == 4 || cn / (long)pow(10,12) == 4)
     {
         printf("VISA\n");
     }
