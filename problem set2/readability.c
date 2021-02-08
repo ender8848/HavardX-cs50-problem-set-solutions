@@ -28,7 +28,7 @@ int main(void)
     }
     else
     {
-        printf("Grade 16\n");
+        printf("Grade 16+\n");
     }
 
     return 0;
