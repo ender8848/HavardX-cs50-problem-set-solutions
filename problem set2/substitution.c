@@ -17,7 +17,7 @@ int main(int argc, string argv[])
     }
     else if (strlen(argv[1]) != 26) // not 26 chars
     {
-        printf("Invalid Key - less than 26 characters\n");
+        printf("Invalid Key - not 26 characters\n");
         return 2;
     }
     else
