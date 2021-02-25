@@ -3,11 +3,11 @@
 Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over adjacent pyramids of blocks, per the below.
 
 
-<center>
+<div align=center>
 
 ![mario](https://github.com/ender8848/HavardX-cs50-problem-set-solutions/blob/main/source/Mario.png)
 
-</center>
+</div>
 
 
 
