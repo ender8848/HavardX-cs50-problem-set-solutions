@@ -18,7 +18,6 @@ That’s kind of confusing, so let’s try an example with David’s Visa: 40036
 
 For the sake of discussion, let’s first underline every other digit, starting with the number’s second-to-last digit:
 
-<font color="red">4</font>
 **4**0**0**3**6**0**0**0**0**0**0**0**0**0**1**4
 
 Okay, let’s multiply each of the underlined digits by 2:
