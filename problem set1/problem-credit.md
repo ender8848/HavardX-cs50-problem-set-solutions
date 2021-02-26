@@ -18,10 +18,12 @@ That’s kind of confusing, so let’s try an example with David’s Visa: 40036
 
 For the sake of discussion, let’s first underline every other digit, starting with the number’s second-to-last digit:
 
-<u>4</u>
-0
-<u>0</u>3<u>6</u>0<u>0</u>0<u>0</u>0<u>0</u>0<u>0</u>0<u>1</u>4
-
+<html>
+  <body>
+<u>4</u>0<u>0</u>3<u>6</u>0<u>0</u>0<u>0</u>0<u>0</u>0<u>0</u>0<u>1</u>4
+  </body>
+</html>
+  
 $\underline{4}0\underline{0}3\underline{6}0\underline{0}0\underline{0}0\underline{0}0\underline{0}0\underline{1}4$
 
 Okay, let’s multiply each of the underlined digits by 2:
