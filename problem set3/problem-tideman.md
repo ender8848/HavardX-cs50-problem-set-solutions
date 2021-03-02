@@ -190,10 +190,11 @@ You should not modify anything else in ```tideman.c``` other than the implementa
 
 ## Walkthrough
 
-<div class="border embed-responsive embed-responsive-16by9" data-video="">
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" src="https://www.youtube.com/embed/kb83NwyYI68?modestbranding=0&amp;rel=0&amp;showinfo=0" scrolling="no">
-</iframe>
-</div>
+<video id="video" controls="" preload="none" poster="">
+
+<source id="mp4" src="https://www.youtube.com/embed/kb83NwyYI68?modestbranding=0&amp" type="video/mp4">
+
+</video>
 
 ## Usage
 
@@ -224,11 +225,3 @@ Rank 3: Bob
 
 Charlie
 ```
-
-
-
-
-
-
-
-
