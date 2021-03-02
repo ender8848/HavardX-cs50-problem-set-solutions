@@ -190,7 +190,7 @@ You should not modify anything else in ```tideman.c``` other than the implementa
 
 ## Walkthrough
 
-Since github does not support embeded videos, I'll just post video walkthrough video link here. 
+Since github does not support embeded videos (or due to my stupidity), I'll just post video walkthrough link here. 
 
 https://www.youtube.com/embed/kb83NwyYI68?modestbranding=0&amp
 
