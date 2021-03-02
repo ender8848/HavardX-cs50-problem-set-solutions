@@ -190,11 +190,9 @@ You should not modify anything else in ```tideman.c``` other than the implementa
 
 ## Walkthrough
 
-<video id="video" controls="" preload="none" poster="">
+Since github does not support embeded videos, I'll just post video walkthrough video link here. 
 
-<source id="mp4" src="https://www.youtube.com/embed/kb83NwyYI68?modestbranding=0&amp" type="video/mp4">
-
-</video>
+https://www.youtube.com/embed/kb83NwyYI68?modestbranding=0&amp
 
 ## Usage
 
