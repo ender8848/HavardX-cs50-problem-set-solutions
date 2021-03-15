@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
 
     // count the num of JPEGs that have been found yet
     int count = 0;
-    int flag = 0; // flag
+    int flag = 0; // use flag to see if we meet the start of data chunks
 
     sprintf(filename, "%03i.jpg", count);
     FILE *outptr = fopen(filename, "w");
@@ -57,7 +57,6 @@ int main(int argc, char *argv[])
         {
             if (flag == 1)
             {
-                //outptr += 512;
                 fwrite(buffer, 512, 1, outptr);
             }
         }
